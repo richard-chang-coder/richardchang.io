@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "start_date" : 2002,
+        "end_date": null,
+        "title" : "berichinlove",
+        "description": "BeRichinlove was designed and develoed by yours truly. This one page Wedding site was meant to be a one stop shop for guests to find out more details about the wedding day and a way to RSVP. The content was personalized based on the guests' personal code that was given through a personalized digital invitation.",
+        "thumbnail": {
+            "image" : "https://images.squarespace-cdn.com/content/v1/51015c9ae4b00028821bf751/1518176228119-2VH3UMSBIZVNSSEBXF23/2018-Website-Mockup.png?format=2500w",
+            "title" : "berichinlove - Single page wedding website",
+            "background_color": "blue"
+        },
+        "images": [
+            "link"
+        ],
+        "url": "www.berichinlove.com",
+        "tags": [
+            "website",
+            "react"
+        ]
+    },
+    {
+        "_id": 2,
+        "start_date" : 2002,
+        "end_date": 2003,
+        "title" : "brstory",
+        "description": "Single page wedding website",
+        "thumbnail": {
+            "image" : "https://images.squarespace-cdn.com/content/v1/51015c9ae4b00028821bf751/1518176228119-2VH3UMSBIZVNSSEBXF23/2018-Website-Mockup.png?format=2500w",
+            "title" : "Brstory - Single page wedding website",
+            "background_color": "red"
+        },
+        "images": [
+            "link"
+        ],
+        "url": "www.brstory.com",
+        "tags": [
+            "website",
+            "react"
+        ]
+    }
+]
